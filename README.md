@@ -3,6 +3,7 @@ HTML,CSS,JS 복습
 참조: 생활코딩 https://opentutorials.org/course/3083 
 
 #HTML
+Notion 정리 : https://deeply-silence-9a4.notion.site/HTML-c5fc73aec3b040bb81d92dd4b524d8d6
 ### 처음 만들어보고 수행해보기
 
 1.html
@@ -15,7 +16,6 @@ Hello world
 
 글자 그대로 나옴
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a90268c3-52bc-49ea-ab39-6c01c4a80669/Untitled.png)
 
 ### 태그
 
