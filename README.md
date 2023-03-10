@@ -2,7 +2,7 @@
 HTML,CSS,JS 복습
 참조: 생활코딩 https://opentutorials.org/course/3083 
 
-#HTML
+# HTML
 
 Notion 정리 : https://deeply-silence-9a4.notion.site/HTML-c5fc73aec3b040bb81d92dd4b524d8d6
 
