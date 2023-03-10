@@ -4,7 +4,7 @@ HTML,CSS,JS 복습
 
 # HTML
 
-Notion 정리 : https://deeply-silence-9a4.notion.site/HTML-c5fc73aec3b040bb81d92dd4b524d8d6
+Notion 정리 : [https://deeply-silence-9a4.notion.site/HTML-c5fc73aec3b040bb81d92dd4b524d8d6](https://deeply-silence-9a4.notion.site/HTML-CSS-JS-2e0de702f7fb40c3976811ef53f70c73)
 
 ### 처음 만들어보고 수행해보기
 
